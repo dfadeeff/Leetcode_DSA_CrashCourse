@@ -1,4 +1,9 @@
 
 .idea
 .idea/workspace.xml
+out/
 out/out/production/CrashCourseDSA/.idea/workspace.xml
+out/production/CrashCourseDSA/.gitignore
+out/production/CrashCourseDSA/StacksQueues/BackSpaceComp.class
+out/production/CrashCourseDSA/StacksQueues/RemoveAllAdjacent.class
+out/production/CrashCourseDSA/StacksQueues/SimplifyPath.class
